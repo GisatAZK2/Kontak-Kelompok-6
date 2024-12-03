@@ -53,12 +53,10 @@ Berikut adalah potongan source code dari proyek kami:
    ```bash
    git clone https://github.com/GisatAZK2/Kontak-Kelompok-6.git
    
-3.Arahkan terminal ke direktori proyek
+3.Arahkan terminal ke direktori proyek jalankan aplikasinya 
 
-    cd Kontak-Kelompok-6
+cd Kontak-Kelompok-6 && python ContactManager.py
 
-4.Jalankan Filenya 
-   python ContactManager.py
 
 ---
 
