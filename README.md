@@ -52,9 +52,7 @@ Berikut adalah potongan source code dari proyek kami:
 2. Clone repository ini ke dalam komputer Anda:  
    ```bash
    git clone https://github.com/GisatAZK2/Kontak-Kelompok-6.git
-3.Arahkan terminal ke direktori proyek jalankan aplikasinya 
-   ```bash
-   cd Kontak-Kelompok-6 && python ContactManager.py
+
 ---
 
 ## 📂 Struktur Proyek  
