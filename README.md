@@ -56,15 +56,15 @@ Berikut adalah potongan source code dari proyek kami:
    ```bash
    cd Kontak-Kelompok-6 && python ContactManager.py
 
----
 
-##📂 Struktur Proyek
+## 📂 Struktur Proyek  
+
+```bash
 Kontak-Kelompok-6  
 ├── img/                  # Gambar-gambar pendukung  
-├── ContactManager.py               # File utama aplikasi  
-└── README.md             # Dokumentasi proyek ini
+├── ContactManager.py     # File utama aplikasi  
+└── README.md             # Dokumentasi proyek ini  
 
----
 
 ##📧 Kontak
 Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, silakan hubungi kami di:
