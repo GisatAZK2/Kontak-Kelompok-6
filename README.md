@@ -1,15 +1,54 @@
-# Kontak-Kelompok-6
+# 📱 Kontak Manager - Kelompok 6  
+Assalamualaikum,  
+Selamat datang di proyek **Contact Manager** kami, sebuah sistem sederhana untuk mengelola kontak sebagai bagian dari tugas **SAS PBTGM**.  
 
-# Alur Flowchart
-![alt text](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6//main/img/kontak.png)
+---
 
-# hasil Debugging
-![alt text](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6//main/img/1.png)
-![alt text](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6//main/img/2.png)
-![alt text](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6//main/img/3.png)
-![alt text](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6//main/img/4.png)
-![alt text](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6//main/img/5.png)
+## 📑 Alur Flowchart  
+Berikut adalah flowchart yang menggambarkan proses aplikasi:  
 
-# Source Code
-![alt text](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6//main/img/code.png)
-o
+![Flowchart](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6/main/img/kontak.png)  
+
+---
+
+## 🛠️ Fitur Utama  
+1. **Menambahkan kontak baru** 📇  
+2. **Melihat daftar kontak** 📝  
+3. **Mengedit informasi kontak** ✏️  
+4. **Menghapus kontak** 🗑️  
+5. **Sistem pencarian kontak** 🔍  
+
+---
+
+## 🔍 Hasil Debugging  
+Berikut adalah beberapa cuplikan layar hasil debugging aplikasi:  
+
+### Tampilan 1  
+![Debugging 1](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6/main/img/1.png)  
+
+### Tampilan 2  
+![Debugging 2](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6/main/img/2.png)  
+
+### Tampilan 3  
+![Debugging 3](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6/main/img/3.png)  
+
+### Tampilan 4  
+![Debugging 4](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6/main/img/4.png)  
+
+### Tampilan 5  
+![Debugging 5](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6/main/img/5.png)  
+
+---
+
+## 💻 Source Code  
+Berikut adalah potongan source code dari proyek kami:  
+
+![Source Code](https://raw.githubusercontent.com/GisatAZK2/Kontak-Kelompok-6/main/img/code.png)  
+
+---
+
+## 🚀 Cara Menjalankan Aplikasi  
+1. Pastikan Anda memiliki Python versi terbaru terinstal di komputer Anda.  
+2. Clone repository ini ke dalam komputer Anda:  
+   ```bash
+   git clone https://github.com/GisatAZK2/Kontak-Kelompok-6.git
