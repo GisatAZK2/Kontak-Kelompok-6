@@ -62,6 +62,7 @@ Kontak-Kelompok-6
 ├── img/                  # Gambar-gambar pendukung  
 ├── ContactManager.py     # File utama aplikasi  
 └── README.md             # Dokumentasi proyek ini  
+
 ---
 
 ##📧 Kontak
@@ -69,6 +70,8 @@ Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, silakan hubung
 
 Email: gisatazk2@gmail.com
 WhatsApp: +6281212810190
+
+---
 
 ##Kelompok 6 - SAS PBTGM 2024 🌟
 
