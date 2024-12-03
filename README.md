@@ -56,7 +56,6 @@ Berikut adalah potongan source code dari proyek kami:
    ```bash
    cd Kontak-Kelompok-6 && python ContactManager.py
 
-
 ---
 
 ##📂 Struktur Proyek
