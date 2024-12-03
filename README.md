@@ -52,3 +52,27 @@ Berikut adalah potongan source code dari proyek kami:
 2. Clone repository ini ke dalam komputer Anda:  
    ```bash
    git clone https://github.com/GisatAZK2/Kontak-Kelompok-6.git
+3.Arahkan terminal ke direktori proyek
+    ```bash
+    cd Kontak-Kelompok-6
+4.Jalankan Filenya 
+  ```bash
+   python ContactManager.py
+
+##📂 Struktur Proyek
+Kontak-Kelompok-6  
+├── img/                  # Gambar-gambar pendukung  
+├── ContactManager.py               # File utama aplikasi  
+└── README.md             # Dokumentasi proyek ini
+
+##📧 Kontak
+Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, silakan hubungi kami di:
+
+Email: gisatazk2@gmail.com
+WhatsApp: +6281212810190
+
+##Kelompok 6 - SAS PBTGM 2024 🌟
+
+
+
+
