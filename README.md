@@ -4,17 +4,16 @@ Selamat datang di proyek **Contact Manager** kami, sebuah sistem sederhana untuk
 
 ---
 
-## 📱 Ikuti Kami di Media Sosial  
-Terhubung dengan kami di platform media sosial berikut:
+## 📱 Ikuti Kami di Media Sosial
 
-- **Facebook**: 📘 [Kontak Manager](https://www.facebook.com/KontakManager)
-- **Instagram**: 📸 [@KontakManager](https://www.instagram.com/KontakManager)
-- **Twitter**: 🐦 [@KontakManager](https://twitter.com/KontakManager)
-- **LinkedIn**: 🔗 [Kontak Manager](https://www.linkedin.com/company/KontakManager)
-- **GitHub**: 🐙 [KontakManager](https://github.com/KontakManager)
-- **YouTube**: 📺 [Kontak Manager](https://www.youtube.com/channel/UC1234567890)
-- **WhatsApp**: 💬 [Hubungi Kami](https://wa.me/6281212810190)
-- **Telegram**: 📱 [KontakManager](https://t.me/KontakManager)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/username)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/username)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/username)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/phone_number)
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
 
 ---
 
