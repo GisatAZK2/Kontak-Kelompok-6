@@ -4,6 +4,20 @@ Selamat datang di proyek **Contact Manager** kami, sebuah sistem sederhana untuk
 
 ---
 
+## 📱 Ikuti Kami di Media Sosial  
+Terhubung dengan kami di platform media sosial berikut:
+
+- **Facebook**: 📘 [Kontak Manager](https://www.facebook.com/KontakManager)
+- **Instagram**: 📸 [@KontakManager](https://www.instagram.com/KontakManager)
+- **Twitter**: 🐦 [@KontakManager](https://twitter.com/KontakManager)
+- **LinkedIn**: 🔗 [Kontak Manager](https://www.linkedin.com/company/KontakManager)
+- **GitHub**: 🐙 [KontakManager](https://github.com/KontakManager)
+- **YouTube**: 📺 [Kontak Manager](https://www.youtube.com/channel/UC1234567890)
+- **WhatsApp**: 💬 [Hubungi Kami](https://wa.me/6281212810190)
+- **Telegram**: 📱 [KontakManager](https://t.me/KontakManager)
+
+---
+
 ## 📑 Alur Flowchart  
 Berikut adalah flowchart yang menggambarkan proses aplikasi:  
 
@@ -16,7 +30,7 @@ Berikut adalah flowchart yang menggambarkan proses aplikasi:
 2. **Melihat daftar kontak** 📝  
 3. **Mengedit informasi kontak** ✏️  
 4. **Menghapus kontak** 🗑️  
-5. **Sistem pencarian kontak** 🔍  
+  
 
 ---
 
