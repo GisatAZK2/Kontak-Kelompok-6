@@ -62,7 +62,6 @@ Kontak-Kelompok-6
 ├── img/                  # Gambar-gambar pendukung  
 ├── ContactManager.py     # File utama aplikasi  
 └── README.md             # Dokumentasi proyek ini  
-
 ---
 
 ##📧 Kontak
