@@ -54,11 +54,9 @@ Berikut adalah potongan source code dari proyek kami:
    git clone https://github.com/GisatAZK2/Kontak-Kelompok-6.git
    
 3.Arahkan terminal ke direktori proyek
-
     cd Kontak-Kelompok-6
 
 4.Jalankan Filenya 
-
    python ContactManager.py
 
 ---
